@@ -149,4 +149,5 @@ MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台。
 | 仓库 | 作用 |
 | --- | --- |
 | [ai-subscription-guide](https://github.com/muyugpt-official/ai-subscription-guide) | GPT / ChatGPT、Claude、Gemini、Grok 充值与订阅知识库 |
+| [gpt-daichong](https://github.com/muyugpt-official/gpt-daichong) | GPT代充 / ChatGPT代充专题：国内购买、代付、支付宝微信与账号安全 |
 | [muyugpt-service-docs](https://github.com/muyugpt-official/muyugpt-service-docs) | MuyuGPT订单、交付、售后与服务说明 |
