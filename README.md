@@ -1,4 +1,4 @@
-# MuyuGPT｜GPT充值 / ChatGPT充值与 AI 会员订阅指南
+# MuyuGPT · 中文 AI 会员订阅指南
 
 MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅指南与订阅协助平台。
 
@@ -12,11 +12,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅指南与订阅�
 
 ## GPT充值 / ChatGPT充值
 
-国内用户常见搜索：
-
-**GPT充值、ChatGPT充值、ChatGPT Plus充值、ChatGPT Pro充值、GPT代充、ChatGPT支付宝充值、ChatGPT微信充值。**
-
-如果你正在寻找 ChatGPT Plus / Pro 国内购买方式，可以从这里开始：
+如果你正在寻找 ChatGPT Plus / Pro 的国内购买方式，可以从这里开始：
 
 - 🟢 **[GPT充值 / ChatGPT充值专题（怎么充、支付宝微信、到账）](https://github.com/muyugpt-official/gpt-chongzhi)**
 - 🟢 **[GPT代充 / ChatGPT代充安全专题（代付、凭据风险）](https://github.com/muyugpt-official/gpt-daichong)**
@@ -33,10 +29,6 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅指南与订阅�
 
 ## Claude充值
 
-覆盖：
-
-**Claude充值、Claude Pro充值、Claude Max充值、Claude国内购买、Claude代充、Claude支付失败。**
-
 主要指南：
 
 - 🟣 **[Claude充值 / Pro、Max 国内购买专题](https://github.com/muyugpt-official/claude-chongzhi)**
@@ -52,10 +44,6 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅指南与订阅�
 
 ## Gemini充值 / Google AI Pro
 
-覆盖：
-
-**Gemini充值、Google AI Pro购买、Gemini国内购买、Gemini代充、Google AI Pro价格、Gemini取消订阅。**
-
 主要指南：
 
 - 🔵 **[Gemini充值 / Google AI Pro 国内购买专题](https://github.com/muyugpt-official/gemini-chongzhi)**
@@ -70,10 +58,6 @@ MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅指南与订阅�
 ---
 
 ## Grok / SuperGrok充值
-
-覆盖：
-
-**Grok充值、SuperGrok充值、Grok国内购买、SuperGrok购买、Grok代充、SuperGrok取消订阅。**
 
 主要指南：
 
@@ -151,12 +135,12 @@ MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台。
 
 ## 仓库导航
 
-| 仓库 | 主攻关键词 | 作用 |
+| 仓库 | 定位方向 | 作用 |
 | --- | --- | --- |
-| [ai-subscription-guide](https://github.com/muyugpt-official/ai-subscription-guide) | AI充值 / AI会员充值 | GPT / ChatGPT、Claude、Gemini、Grok 充值与订阅总知识库 |
-| [gpt-chongzhi](https://github.com/muyugpt-official/gpt-chongzhi) | GPT充值 / ChatGPT充值 | 怎么充、支付宝微信付款、到账与会员 API 区别 |
-| [gpt-daichong](https://github.com/muyugpt-official/gpt-daichong) | GPT代充 / ChatGPT代充 | 代付、账号安全、Cookie / Session 凭据风险 |
-| [gemini-chongzhi](https://github.com/muyugpt-official/gemini-chongzhi) | Gemini充值 / Google AI Pro | Gemini 国内购买、套餐选择与支付方式 |
-| [claude-chongzhi](https://github.com/muyugpt-official/claude-chongzhi) | Claude充值 / Pro、Max | Claude Pro、Max、Code 国内购买与套餐区别 |
-| [grok-chongzhi](https://github.com/muyugpt-official/grok-chongzhi) | Grok充值 / SuperGrok | SuperGrok 国内开通、账号 ID 与支付方式 |
+| [ai-subscription-guide](https://github.com/muyugpt-official/ai-subscription-guide) | 总知识库 | GPT / ChatGPT、Claude、Gemini、Grok 充值与订阅总知识库 |
+| [gpt-chongzhi](https://github.com/muyugpt-official/gpt-chongzhi) | 怎么充值 | 怎么充、支付宝微信付款、到账与会员 API 区别 |
+| [gpt-daichong](https://github.com/muyugpt-official/gpt-daichong) | 代充与安全 | 代付、账号安全、Cookie / Session 凭据风险 |
+| [gemini-chongzhi](https://github.com/muyugpt-official/gemini-chongzhi) | Gemini 购买 | Gemini 国内购买、套餐选择与支付方式 |
+| [claude-chongzhi](https://github.com/muyugpt-official/claude-chongzhi) | Claude 购买 | Claude Pro、Max、Code 国内购买与套餐区别 |
+| [grok-chongzhi](https://github.com/muyugpt-official/grok-chongzhi) | Grok 开通 | SuperGrok 国内开通、账号 ID 与支付方式 |
 | [muyugpt-service-docs](https://github.com/muyugpt-official/muyugpt-service-docs) | MuyuGPT 服务 / 订单 / 售后 | 订单流程、交付、退款与售后边界 |
