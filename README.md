@@ -1,146 +1,145 @@
-# MuyuGPT · 中文 AI 会员订阅指南
+# MuyuGPT · AI 订阅与使用指南
 
-MuyuGPT 是面向中文用户的独立第三方 AI 会员订阅指南与订阅协助平台。
+MuyuGPT 主要整理 ChatGPT、Claude、Gemini、Grok 等 AI 产品的订阅、付款、套餐选择和常见问题。
 
-主要整理 **GPT充值、ChatGPT充值、ChatGPT Plus / Pro、Claude Pro / Max、Gemini / Google AI Pro、Grok / SuperGrok** 的国内购买、支付方式、套餐选择、支付失败、账号安全和取消订阅等问题。
+这里更像一个长期维护的中文资料入口。  
+遇到付款失败、不知道套餐怎么选、担心第三方订阅安全，或者只是想找对应产品的购买说明，都可以从下面开始。
 
-官网：[https://muyugpt.com](https://muyugpt.com)
+官网：  
+👉 [https://muyugpt.com](https://muyugpt.com)
 
-完整知识库：[AI Subscription Guide](https://github.com/muyugpt-official/ai-subscription-guide)
-
----
-
-## GPT充值 / ChatGPT充值
-
-如果你正在寻找 ChatGPT Plus / Pro 的国内购买方式，可以从这里开始：
-
-- 🟢 **[GPT充值 / ChatGPT充值专题（怎么充、支付宝微信、到账）](https://github.com/muyugpt-official/gpt-chongzhi)**
-- 🟢 **[GPT代充 / ChatGPT代充安全专题（代付、凭据风险）](https://github.com/muyugpt-official/gpt-daichong)**
-- [2026 GPT充值 / ChatGPT Plus、Pro国内充值完整指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
-- [ChatGPT Plus是什么？功能、适合人群和值不值得买](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-guide.md)
-- [ChatGPT Plus和Pro有什么区别](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-vs-pro.md)
-- [ChatGPT Plus支付失败怎么办](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-payment-failed.md)
-- [GPT / ChatGPT代充安全吗](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-recharge-safety.md)
-- [ChatGPT充值多久到账](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-recharge-arrival-time.md)
-
-👉 [查看 ChatGPT Plus / Pro 当前套餐](https://muyugpt.com/chatgpt)
+完整知识库：  
+👉 [AI Subscription Guide](https://github.com/muyugpt-official/ai-subscription-guide)
 
 ---
 
-## Claude充值
+## 从这里开始
 
-主要指南：
-
-- 🟣 **[Claude充值 / Pro、Max 国内购买专题](https://github.com/muyugpt-official/claude-chongzhi)**
-- [Claude Pro / Max国内充值指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/claude/claude-pro-alipay-wechat-recharge.md)
-- [Claude Max和Pro有什么区别](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/claude/claude-max-vs-pro.md)
-- [Claude Pro是什么](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/claude/claude-pro-guide.md)
-- [Claude Pro支付失败怎么办](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/claude/claude-pro-payment-failed.md)
-- [Claude代充安全吗](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/claude/claude-recharge-safety.md)
-
-👉 [查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)
+| 产品 | 适合先看 | 当前套餐 |
+| --- | --- | --- |
+| ChatGPT | Plus / Pro、付款失败、国内开通方式 | [查看 ChatGPT](https://muyugpt.com/chatgpt) |
+| Claude | Pro / Max、Claude Code、套餐区别 | [查看 Claude](https://muyugpt.com/claude) |
+| Gemini | Google AI Pro、会员与 API 区别 | [查看 Gemini](https://muyugpt.com/gemini) |
+| Grok | SuperGrok、套餐选择、开通问题 | [查看 Grok](https://muyugpt.com/grok) |
 
 ---
 
-## Gemini充值 / Google AI Pro
+## ChatGPT
 
-主要指南：
+如果是第一次开 ChatGPT Plus，或者已经卡在付款这一步，建议先看完整指南。
 
-- 🔵 **[Gemini充值 / Google AI Pro 国内购买专题](https://github.com/muyugpt-official/gemini-chongzhi)**
-- [Gemini / Google AI Pro国内充值指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/gemini/gemini-ai-pro-alipay-wechat-recharge.md)
-- [Gemini / Google AI Pro价格与套餐指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/gemini/gemini-ai-pro-price-guide.md)
-- [Google AI Pro是什么](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/gemini/google-ai-pro-guide.md)
-- [Gemini代充安全吗](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/gemini/gemini-recharge-safety.md)
-- [Google AI Pro怎么取消](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/gemini/google-ai-pro-cancel.md)
+- [ChatGPT Plus 国内开通与充值指南](https://github.com/muyugpt-official/gpt-chongzhi)
+- [GPT / ChatGPT 第三方代充安全专题](https://github.com/muyugpt-official/gpt-daichong)
+- [查看 ChatGPT Plus / Pro 当前套餐](https://muyugpt.com/chatgpt)
 
-👉 [查看 Gemini / Google AI Pro 当前套餐](https://muyugpt.com/gemini)
+`gpt-chongzhi` 主要整理官方订阅、App Store、付款失败、到账和第三方订阅注意事项。
 
----
-
-## Grok / SuperGrok充值
-
-主要指南：
-
-- ⚫ **[Grok充值 / SuperGrok 国内开通专题](https://github.com/muyugpt-official/grok-chongzhi)**
-- [Grok / SuperGrok国内充值指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/grok/supergrok-alipay-wechat-recharge.md)
-- [SuperGrok是什么？功能、价格与适合人群](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/grok/supergrok-guide.md)
-- [SuperGrok怎么取消](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/grok/supergrok-cancel.md)
-
-👉 [查看 Grok / SuperGrok 当前套餐](https://muyugpt.com/grok)
+`gpt-daichong` 则更偏账号安全：密码、验证码、Cookie、Session 这些东西到底能不能交给别人，会单独说清楚。
 
 ---
 
-## AI会员订阅知识库
+## Claude
 
-完整教程统一维护在：
+Claude 这一块主要整理 Pro、Max 和 Claude Code。
 
-👉 [muyugpt-official/ai-subscription-guide](https://github.com/muyugpt-official/ai-subscription-guide)
+如果平时会用 Claude 写代码、看长文档或者做研究，先弄清楚 Pro 和 Max 的区别，再决定买哪个档位，比直接选最贵的更实际。
 
-内容包括：
+- [Claude Pro / Max 国内购买与使用指南](https://github.com/muyugpt-official/claude-chongzhi)
+- [查看 Claude Pro / Max 当前套餐](https://muyugpt.com/claude)
 
-- GPT充值 / ChatGPT充值
+这里会持续整理：
+
+- Claude Pro 和 Max 怎么选
+- Claude Code 适合什么人
+- 付款失败怎么办
+- Max 5X / 20X 的区别
+- 到账以后在哪里确认会员
+- 第三方订阅需要注意哪些账号安全问题
+
+---
+
+## Gemini
+
+Gemini 这边最容易搞混的，其实不是怎么买，而是：
+
+**Gemini 会员、Google AI Pro 和 Gemini API 并不是同一回事。**
+
+买之前最好先确认自己的用途。
+
+- [Gemini / Google AI Pro 国内购买指南](https://github.com/muyugpt-official/gemini-chongzhi)
+- [查看 Gemini 当前套餐](https://muyugpt.com/gemini)
+
+相关内容会重点整理套餐区别、付款方式、账号问题，以及会员和 API 的使用边界。
+
+---
+
+## Grok / SuperGrok
+
+Grok 的产品名字比较多，SuperGrok、不同套餐以及 X 相关服务经常会被混在一起。
+
+如果准备开通，建议先确认自己真正需要的是哪一种产品。
+
+- [Grok / SuperGrok 国内开通指南](https://github.com/muyugpt-official/grok-chongzhi)
+- [查看 Grok / SuperGrok 当前套餐](https://muyugpt.com/grok)
+
+---
+
+## 不知道该看哪篇？
+
+如果只是想把几个 AI 产品放在一起比较，可以直接进总知识库：
+
+👉 [MuyuGPT AI Subscription Guide](https://github.com/muyugpt-official/ai-subscription-guide)
+
+里面会按产品和问题分类整理：
+
 - ChatGPT Plus / Pro
 - Claude Pro / Max
 - Gemini / Google AI Pro
 - Grok / SuperGrok
-- 支付宝 / 微信人民币订单
-- 支付失败处理
-- 套餐比较
-- 代充安全
+- 国内付款方式
+- 支付失败
+- 套餐选择
+- 第三方订阅安全
 - 取消自动续费
-- 订单与售后说明
+- 订单与售后
+
+---
+
+## 关于第三方订阅
+
+如果官方付款条件没问题，我一般建议优先考虑官方渠道。
+
+如果没有合适的海外付款条件，需要人民币付款或者中文订单查询，再去比较第三方服务。
+
+无论选择哪一种第三方，都建议先确认：
+
+- 买到的到底是什么套餐
+- 会员开到自己的账号还是交付其他账号
+- 订单有没有记录
+- 付款失败怎么处理
+- 售后在哪里找
+- 是否要求提供密码、验证码、Cookie 或 Session
+
+不要因为“充值”两个字，就默认必须把账号控制权交给别人。
 
 ---
 
 ## MuyuGPT 服务
 
-MuyuGPT 提供：
-
-- AI会员购买与订阅说明
-- 人民币订单结算
-- 支付宝 / 微信订单
-- 中文订单查询
-- 支付与充值问题说明
-- 企业采购相关咨询
+MuyuGPT 提供 AI 订阅相关的中文资料整理，以及部分第三方订阅协助服务。
 
 官网：
 
-[https://muyugpt.com](https://muyugpt.com)
+👉 [https://muyugpt.com](https://muyugpt.com)
 
-服务文档：
+订单、交付和售后说明：
 
-[muyugpt-service-docs](https://github.com/muyugpt-official/muyugpt-service-docs)
-
----
-
-## 安全与第三方身份说明
-
-MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台。
-
-**MuyuGPT 不是 OpenAI、Anthropic、Google 或 xAI 官方渠道，与上述厂商不存在官方隶属或官方授权关系。**
-
-选择任何第三方订阅服务时，都应该确认：
-
-- 实际商品
-- 账号控制权
-- 订单记录
-- 交付方式
-- 退款与售后规则
-
-不要随意向第三方提供密码、验证码、Cookie、Session、API Key 或账号恢复代码。
-
-各 AI 产品的官方价格、套餐、功能、地区可用性和订阅规则，以对应厂商当前官方信息为准。
+👉 [MuyuGPT Service Docs](https://github.com/muyugpt-official/muyugpt-service-docs)
 
 ---
 
-## 仓库导航
+## 说明
 
-| 仓库 | 定位方向 | 作用 |
-| --- | --- | --- |
-| [ai-subscription-guide](https://github.com/muyugpt-official/ai-subscription-guide) | 总知识库 | GPT / ChatGPT、Claude、Gemini、Grok 充值与订阅总知识库 |
-| [gpt-chongzhi](https://github.com/muyugpt-official/gpt-chongzhi) | 怎么充值 | 怎么充、支付宝微信付款、到账与会员 API 区别 |
-| [gpt-daichong](https://github.com/muyugpt-official/gpt-daichong) | 代充与安全 | 代付、账号安全、Cookie / Session 凭据风险 |
-| [gemini-chongzhi](https://github.com/muyugpt-official/gemini-chongzhi) | Gemini 购买 | Gemini 国内购买、套餐选择与支付方式 |
-| [claude-chongzhi](https://github.com/muyugpt-official/claude-chongzhi) | Claude 购买 | Claude Pro、Max、Code 国内购买与套餐区别 |
-| [grok-chongzhi](https://github.com/muyugpt-official/grok-chongzhi) | Grok 开通 | SuperGrok 国内开通、账号 ID 与支付方式 |
-| [muyugpt-service-docs](https://github.com/muyugpt-official/muyugpt-service-docs) | MuyuGPT 服务 / 订单 / 售后 | 订单流程、交付、退款与售后边界 |
+MuyuGPT 是独立第三方平台，并非 OpenAI、Anthropic、Google 或 xAI 官方渠道，与上述厂商不存在官方隶属、授权或合作关系。
+
+各产品的价格、套餐、功能、地区可用性和订阅规则都可能调整，实际信息以对应厂商页面和下单页面当前显示为准。
